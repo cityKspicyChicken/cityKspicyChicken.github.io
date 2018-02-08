@@ -1,29 +1,32 @@
-# Jekyll configuration
+# Permalinks
+permalink:           pretty
 
-name: cityKspicyChicken
-description: Welcome to cityKspicyChicken！
+# Setup
+title:               Poole
+tagline:             The Jekyll Butler
+url:                 http://getpoole.com
+paginate:            1
+baseurl:             ""
 
-# url is currently only used only for the RSS feed in feed.xml
-url: https://github.com/cityKspicyChicken/cityKspicyChicken.github.io
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
 
-# baseurl will often be '', but for a project page on gh-pages, it needs to
-# be the project name.
-# *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
-#     run it like so: jekyll serve --baseurl=''
-baseurl: '/cityKspicyChicken.github.io'
-## default date_format
-date_format: 
-  title: "%B-%-d-%Y"
-  archive: "%b"
-  categories: "%b-%Y"
-  tag: "%b-%Y"
-# Language
-lan: "cn" 
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
 
-paginate: 10
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
 
-highlighter: rouge
-markdown: kramdown
-plugins: ['jekyll-paginate']
-
-exclude: ['README.md', 'LICENSE', "*.bak"]
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
