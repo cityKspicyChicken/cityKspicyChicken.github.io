@@ -1,32 +1,29 @@
-# Permalinks
-permalink:           pretty
+# Jekyll configuration
 
-# Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
-paginate:            1
-baseurl:             ""
+name: Xixia
+description: Welcome to Xixia！
 
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
+# url is currently only used only for the RSS feed in feed.xml
+url: https://github.com/zxixia/jekyll-xixia
 
-# About/contact
-author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+# baseurl will often be '', but for a project page on gh-pages, it needs to
+# be the project name.
+# *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
+#     run it like so: jekyll serve --baseurl=''
+baseurl: '/jekyll-xixia'
+## default date_format
+date_format: 
+  title: "%B-%-d-%Y"
+  archive: "%b"
+  categories: "%b-%Y"
+  tag: "%b-%Y"
+# Language
+lan: "en" 
 
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
+paginate: 10
 
-# Gems
-gems:
-  - jekyll-paginate
-  - jekyll-gist
+highlighter: rouge
+markdown: kramdown
+gems: ['jekyll-paginate']
+
+exclude: ['README.md', 'LICENSE', "*.bak"]
