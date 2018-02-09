@@ -1,0 +1,10 @@
+---
+layout: post
+title: "CppCs"
+date:   2018-02-09 23:18:50 +0800
+categories: C++/C#
+tags: 微小的代码工作
+description: C++ you are the world, C# you are the children
+---
+If you don´t like programming, then i think you just make a good choice to leave this page. otherwise you will suffer from the diss from C++ and C++++.
+what! You want to know what is C++, and evenmore C#. Then please google the keywords and you can find something about them. Don´t tell other people that I tell you how to find them.
