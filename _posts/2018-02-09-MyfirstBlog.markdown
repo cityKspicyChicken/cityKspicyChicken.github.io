@@ -18,13 +18,13 @@ description: 这篇文章很奇怪，讲了一个狮子学习猿猴的故事。
 3. C++/C# 
 4. ROS 
 5. Hololens 
-6. Unity3D板块
+6. Unity3D
 
 如果以后会涉及其他内容，那么再进行增添。
 
 对于学习心得的总结和知识点的梳理计划:
 
-1. 每一周 C#, ROS, Hololens 各更新一篇 
+1. 每一周 C#, ROS, Hololens 各更新一篇
 2, 每两周 Python, Unity3D 各更新一篇
 3. 不定期 C++
 
