@@ -1,0 +1,48 @@
+---
+layout: post
+title: "CppCs"
+date:   2018-07-21 23:18:50 +0800
+categories: Data Structure and Algorithm
+tags: 微小的代码工作
+description: Algorithm
+---
+**Algorithm**
+</br>
+In mathematics and computer science, an algorithm (/ˈælɡərɪðəm/ (About this sound listen)) is an unambiguous specification of how to solve a class of problems. Algorithms can perform calculation, data processing and automated reasoning tasks.
+</br>
+As an effective method, an algorithm can be expressed within a finite amount of space and time[1] and in a well-defined formal language for calculating a function. Starting from an initial state and initial input (perhaps empty), the instructions describe a computation that, when executed, proceeds through a finite number of well-defined successive states, eventually producing "output" and terminating at a final ending state. The transition from one state to the next is not necessarily deterministic; some algorithms, known as randomized algorithms, incorporate random input.
+</br>
+**Expressing algorithms**
+</br>
+Algorithms can be expressed in many kinds of notation, including natural languages, pseudocode, flowcharts, drakon-charts, programming languages or control tables (processed by interpreters). Natural language expressions of algorithms tend to be verbose and ambiguous, and are rarely used for complex or technical algorithms. Pseudocode, flowcharts, drakon-charts and control tables are structured ways to express algorithms that avoid many of the ambiguities common in natural language statements. Programming languages are primarily intended for expressing algorithms in a form that can be executed by a computer, but are often used as a way to define or document algorithms.
+</br>
+There is a wide variety of representations possible and one can express a given Turing machine program as a sequence of machine tables (see more at finite-state machine, state transition table and control table), as flowcharts and drakon-charts (see more at state diagram), or as a form of rudimentary machine code or assembly code called "sets of quadruples" (see more at Turing machine).
+</br>
+Representations of algorithms can be classed into three accepted levels of Turing machine description:
+</br>
+1 High-level description
+    "...prose to describe an algorithm, ignoring the implementation details. At this level we do not need to mention how the machine manages its tape or head."
+2 Implementation description
+    "...prose used to define the way the Turing machine uses its head and the way that it stores data on its tape. At this level we do not give details of states or transition function."
+3 Formal description
+    Most detailed, "lowest level", gives the Turing machine's "state table".
+</br>
+For an example of the simple algorithm "Add m+n" described in all three levels, see [Algorithm#Examples](https://en.wikipedia.org/wiki/Algorithm#Examples). 
+</br>
+**Design**
+</br>
+Algorithm design refers to a method or mathematical process for problem solving and engineering algorithms. The design of algorithms is part of many solution theories of operation research, such as dynamic programming and divide-and-conquer. Techniques for designing and implementing algorithm designs are also called algorithm design patterns, such as the template method pattern and decorator pattern.
+</br>
+One of the most important aspects of algorithm design is creating an algorithm that has an efficient runtime, also known as its Big O.
+</br>
+Typical steps in development of algorithms:
+</br>
+    1.Problem definition
+    2.Development of a model
+    3.Specification of algorithm
+    4.Designing an algorithm
+    5.Checking the correctness of algorithm
+    6.Analysis of algorithm
+    7.Implementation of algorithm
+    8.Program testing
+    9.Documentation preparation
