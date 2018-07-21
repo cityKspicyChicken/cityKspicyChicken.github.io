@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "CppCs"
+title: "the first blog of algorithm"
 date:   2018-07-21 23:18:50 +0800
 categories: Data Structure and Algorithm
 tags: 微小的代码工作
 description: Algorithm
 ---
 **Algorithm**
-<br/>
+<br/> 
 In mathematics and computer science, an algorithm (/ˈælɡərɪðəm/ (About this sound listen)) is an unambiguous specification of how to solve a class of problems. Algorithms can perform calculation, data processing and automated reasoning tasks.
 <br/>
 As an effective method, an algorithm can be expressed within a finite amount of space and time[1] and in a well-defined formal language for calculating a function. Starting from an initial state and initial input (perhaps empty), the instructions describe a computation that, when executed, proceeds through a finite number of well-defined successive states, eventually producing "output" and terminating at a final ending state. The transition from one state to the next is not necessarily deterministic; some algorithms, known as randomized algorithms, incorporate random input.
