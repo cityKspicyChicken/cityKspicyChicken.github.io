@@ -2,7 +2,7 @@
 layout: post
 title: "the first blog of Data Structure"
 date:   2018-07-21 23:18:50 +0800
-categories: Data Structure and Algorithm
+categories: "Data Structure and Algorithm"
 tags: 微小的代码工作
 description: Data Structure
 ---
