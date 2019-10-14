@@ -2,8 +2,8 @@
 layout: post
 title: "JPDA"
 date: 2019-10-14 15:00:00 +0800
-categories:DataAssociation 
-tages: ADAS 
+categories:ADAS 
+tages: DA
 description: Algorithm
 ---
 ### Data Association - 01 JPDA 
