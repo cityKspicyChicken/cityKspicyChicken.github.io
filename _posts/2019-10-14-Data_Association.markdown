@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Joint Probabilistic Data Association"
+title: "JPDA"
 date: 2019-10-14 15:00:00 +0800
-categories:Data Association 
+categories:DataAssociation 
 tages: ADAS 
 description: Algorithm
 ---
